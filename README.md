@@ -75,6 +75,9 @@ creation stages.
 “job-postings.xlsx”. Present that data using a bar chart here. Order the bar chart 
 in the descending order of the number of job postings.
 
+<img width="533" height="396" alt="Job Postings" src="https://github.com/user-attachments/assets/5f36d4eb-c44a-4ced-8c0e-ffa9e05e4a2c" />
+
+
 **Popular Languages**
 
 *Instruction*: In Module 1 you have collected the job postings data using web scraping in a file 
