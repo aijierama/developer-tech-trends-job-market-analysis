@@ -61,7 +61,7 @@ competitive markets (SF/Austin).
 - [Popular Programming Languages](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html) dataset (via IBM Skills Network)
 
 **Dashboard Dataset**
-  - Leveraged the processed survey_data_updated.csv file for final visualizations.
+  - Leveraged the processed [survey_data_updated.csv](https://github.com/aijierama/developer-tech-trends-job-market-analysis/blob/main/survey_data_updated.csv) file for final visualizations.
 
 **Data Wrangling and Handling**
   - Preserved missing values in the raw dataset to maintain data integrity.
