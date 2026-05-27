@@ -84,7 +84,15 @@ in the descending order of the number of job postings.
 named “popular-languages.csv”. Present that data using a bar chart here. Order 
 the bar chart in the descending order of salary.
 
+<img width="543" height="355" alt="TopProgrammingLanguage" src="https://github.com/user-attachments/assets/aeed5be0-0299-4432-b78f-3d948530ab9d" />
+
+
 **Programming Language Trends**
+
+<img width="844" height="478" alt="Top10CurrentProgramminglanguage" src="https://github.com/user-attachments/assets/bce52fad-0b03-4e40-a4ff-688bb2a8cbbe" />
+
+<img width="825" height="485" alt="Top10FutureProgrammingLanguage" src="https://github.com/user-attachments/assets/933635e5-76b2-4e4a-b9bb-134ef6fee3b4" />
+
 
 **PROGRAMMING LANGUAGE TRENDS - FINDINGS AND IMPLICATIONS**
 
@@ -114,6 +122,11 @@ versatile, blending traditional frontend
 
 **DATABASE TRENDS**
 
+<img width="824" height="441" alt="Top10CurrentDatabases" src="https://github.com/user-attachments/assets/a840ec66-aaa7-464f-a80c-1f9a9c7a24ca" />
+
+<img width="828" height="438" alt="Top10FutureDatabases" src="https://github.com/user-attachments/assets/e78117ad-68d3-4740-9849-f8970053eebf" />
+
+
 **DATABASE TRENDS - FINDINGS AND IMPLICATIONS**
 
 **Findings**
@@ -141,11 +154,17 @@ to stay relevant.
 
 **DASHBOARD**
 
-**DASHBOARD TAB 1: Current Technology Usage**
+### **DASHBOARD TAB 1: Current Technology Usage**
 
-**DASHBOARD TAB 2: Future Technology Trends**
+<img width="1539" height="888" alt="Screenshot 2026-05-27 133554" src="https://github.com/user-attachments/assets/3aed5dc7-83ac-4435-bb81-25bc4cded74c" />
 
-**DASHBOARD TAB 3: Demographics**
+### **DASHBOARD TAB 2: Future Technology Trends**
+
+<img width="1520" height="907" alt="Screenshot 2026-05-27 133726" src="https://github.com/user-attachments/assets/866076f9-8290-4ae0-9f53-7dc9965e95fd" />
+
+### **DASHBOARD TAB 3: Demographics**
+
+<img width="1540" height="883" alt="Screenshot 2026-05-27 133801" src="https://github.com/user-attachments/assets/d3b3c3dc-711c-4ad4-bfc0-bb2558f2ec7e" />
 
 **Discussion**
 
