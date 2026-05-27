@@ -57,11 +57,9 @@ competitive markets (SF/Austin).
 
 ### Methodology
 **Primary Data Sources**
-- [Naukri.com](https://www.kaggle.com/datasets/promptcloud/jobs-on-naukricom) Job Postings dataset (Kaggle)
-- [Popular Programming Languages](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html) dataset (via IBM Skills Network)
-
-**Dashboard Dataset**
-  - Leveraged the processed [survey_data_updated.csv](https://github.com/aijierama/developer-tech-trends-job-market-analysis/blob/main/survey_data_updated.csv) file for final visualizations.
+- [Naukri.com](https://www.kaggle.com/datasets/promptcloud/jobs-on-naukricom) Job Postings dataset (Kaggle): Analyzed job market trends using Excel to build dynamic pivot tables and preliminary visualizations.
+- [Popular Programming Languages](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html) dataset (via IBM Skills Network): Processed and aggregated language trends using Excel.
+- Dashboard Dataset: [survey_data_updated.csv](https://github.com/aijierama/developer-tech-trends-job-market-analysis/blob/main/survey_data_updated.csv). Imported the processed survey data into IBM Cognos Analytics to design and develop interactive, final executive dashboards.
 
 **Data Wrangling and Handling**
   - Preserved missing values in the raw dataset to maintain data integrity.
